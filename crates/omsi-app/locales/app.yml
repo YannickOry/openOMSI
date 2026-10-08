@@ -65,6 +65,7 @@ _version: 2
   pt: "Direção suave com o mouse"
   pt-pt: "Direção suave com o rato"
   nl: "Vloeiend sturen met de muis"
+  ru: "Плавное руление мышью"
 "The wheel eases after the cursor; off: it follows at once, as in OMSI":
   fr: "Le volant suit le curseur en douceur ; désactivé : il suit immédiatement, comme sur OMSI"
   ca: "El volant segueix el cursor suaument; desactivat: el segueix immediatament, com a OMSI"
@@ -72,6 +73,7 @@ _version: 2
   pt: "O volante segue o cursor suavemente; desativado: segue imediatamente, como no OMSI"
   pt-pt: "O volante segue o cursor suavemente; desativado: segue-o imediatamente, como no OMSI"
   nl: "Het stuur volgt de cursor geleidelijk; uit: het volgt onmiddellijk, zoals in OMSI"
+  ru: "Руль плавно догоняет курсор; если выключено: следует за ним мгновенно, как в оригинальной OMSI"
 "Clear AI traffic":
   fr: "Nettoyer le trafic IA"
   ca: "Esborra el trànsit d'IA"
@@ -79,6 +81,7 @@ _version: 2
   pt: "Limpar tráfego de IA"
   pt-pt: "Limpar tráfego de IA"
   nl: "AI-verkeer verwijderen"
+  ru: "Очистить весь трафик"
 "Remove the current AI cars from the road; random traffic will return automatically.":
   fr: "Supprimer les véhicules IA actuels de la route, ainsi le trafic aléatoire reviendra automatiquement."
   ca: "Retira els cotxes d'IA de la carretera; el trànsit aleatori tornarà automàticament."
@@ -86,6 +89,7 @@ _version: 2
   pt: "Remover os carros de IA atuais da via; o tráfego aleatório voltará automaticamente."
   pt-pt: "Remover os carros de IA atuais da estrada; o tráfego aleatório regressará automaticamente."
   nl: "Verwijder de huidige AI-auto's van de weg; willekeurig verkeer verschijnt automatisch opnieuw."
+  ru: "Убрать текущий AI-транспорт с дороги; случайный трафик вернётся автоматически."
 "Tell me about a new version during a session":
   fr: "M'avertir d'une nouvelle version pendant le jeu"
   ca: "Avisa'm de les versions noves durant una sessió"
@@ -93,6 +97,7 @@ _version: 2
   pt: "Avisar sobre uma nova versão durante a sessão"
   pt-pt: "Avisar-me sobre uma nova versão durante a sessão"
   nl: "Meld nieuwe versies tijdens het spelen"
+  ru: "Сообщать о новых версиях во время сессии"
 "Count me in the website's \"playing now\" (anonymous)":
   fr: "Me compter dans le compteur \"joueurs en ligne\" du site (anonyme)"
   ca: "Compta'm a «jugant ara» del web (anònim)"
@@ -100,6 +105,7 @@ _version: 2
   pt: "Incluir-me no \"jogando agora\" do site (anônimo)"
   pt-pt: "Incluir-me no \"a jogar agora\" do site (anónimo)"
   nl: "Mij anoniem meetellen bij 'nu aan het spelen' op de website"
+  ru: "Отображать меня в счётчике онлайн-игроков на сайте (анонимно)"
 "Radio stations":
   fr: "Stations de radio"
   ca: "Emissores de ràdio"
@@ -107,6 +113,7 @@ _version: 2
   pt: "Estações de rádio"
   pt-pt: "Estações de rádio"
   nl: "Radiozenders"
+  ru: "Радиостанции"
 "A radio's station button n plays the n-th station, a cassette player the first; Shift+R steps through them. An address is an MP3, AAC or Ogg stream or an .m3u/.pls playlist.":
   fr: "Le bouton de station n d'une radio lit la n-ième station, un lecteur de cassettes lit la première. Maj+R parcourt les stations. Une adresse peut être un flux MP3, AAC ou Ogg ou une liste de lecture .m3u/.pls."
   ca: "El botó n de la ràdio reprodueix l'emissora n; un casset, la primera. Maj+R les recorre. Una adreça pot ser un flux MP3, AAC o Ogg o una llista .m3u/.pls."
@@ -114,6 +121,7 @@ _version: 2
   pt: "O botão de estação n de um rádio reproduz a n-ésima estação; um toca-fitas reproduz a primeira. Shift+R percorre as estações. Um endereço pode ser uma transmissão MP3, AAC ou Ogg ou uma lista .m3u/.pls."
   pt-pt: "O botão de estação n de um rádio reproduz a n.ª estação; um leitor de cassetes reproduz a primeira. Shift+R percorre as estações. Um endereço pode ser um fluxo MP3, AAC ou Ogg ou uma lista de reprodução .m3u/.pls."
   nl: "Radioknop n speelt zender n; een cassettespeler de eerste. Shift+R schakelt tussen zenders. Gebruik een MP3-, AAC- of Ogg-stream of een .m3u/.pls-afspeellijst."
+  ru: "Кнопка радиостанции n запускает n-ю станцию, а кассетный плеер — первую; Shift+R переключает их по очереди. Адрес должен быть потоком MP3, AAC или Ogg, либо плейлистом .m3u/.pls."
 "Smooth mouse steering (off: the wheel follows the cursor at once, as in OMSI)":
   fr: "Direction douce avec la souris (désactivé : le volant suit le curseur immédiatement, comme sur OMSI)"
   ca: "Direcció suau amb el ratolí (desactivat: el volant segueix el cursor immediatament, com a OMSI)"
@@ -121,6 +129,7 @@ _version: 2
   pt: "Direção suave com o mouse (desativado: o volante segue o cursor imediatamente, como no OMSI)"
   pt-pt: "Direção suave com o rato (desativado: o volante segue o cursor imediatamente, como no OMSI)"
   nl: "Vloeiend sturen met de muis (uit: het stuur volgt onmiddellijk, zoals in OMSI)"
+  ru: "Плавное руление мышью (если выключено: руль следует за курсором мгновенно, как в оригинальной OMSI)"
 "Road texture vibration":
   fr: "Vibration de la texture de la route"
   ca: "Vibració del paviment"
@@ -128,6 +137,7 @@ _version: 2
   pt: "Vibração da textura da estrada"
   pt-pt: "Vibração da textura da estrada"
   nl: "Trillingen door het wegdek"
+  ru: "Тряска от неровностей дороги"
 "Engine vibration":
   fr: "Vibration du moteur"
   ca: "Vibració del motor"
@@ -135,6 +145,7 @@ _version: 2
   pt: "Vibração do motor"
   pt-pt: "Vibração do motor"
   nl: "Motortrillingen"
+  ru: "Тряска от двигателя"
 "Vibration fade-out":
   fr: "Atténuation de la vibration"
   ca: "Atenuació de la vibració"
@@ -142,6 +153,7 @@ _version: 2
   pt: "Redução gradual da vibração"
   pt-pt: "Redução gradual da vibração"
   nl: "Trillingen geleidelijk laten uitdoven"
+  ru: "Затухание тряски"
 "Seat position":
   fr: "Position du siège"
   ca: "Posició del seient"
@@ -149,6 +161,7 @@ _version: 2
   pt: "Posição do banco"
   pt-pt: "Posição do banco"
   nl: "Zitpositie"
+  ru: "Положение сиденья"
 "Head pitch":
   fr: "Inclinaison de la tête"
   ca: "Inclinació del cap"
@@ -156,6 +169,7 @@ _version: 2
   pt: "Inclinação vertical da cabeça"
   pt-pt: "Inclinação vertical da cabeça"
   nl: "Hoofd kantelen"
+  ru: "Наклон головы"
 "Right stick turns the view":
   fr: "Le stick droit tourne la vue"
   ca: "El joystick dret gira la vista"
@@ -163,6 +177,7 @@ _version: 2
   pt: "O analógico direito gira a visão"
   pt-pt: "O manípulo direito roda a vista"
   nl: "Rechterstick draait het beeld"
+  ru: "Правый стик управляет взглядом"
 "Smooth the mouse look":
   fr: "Adoucir le regard de la souris"
   ca: "Suavitza la vista amb el ratolí"
@@ -170,6 +185,7 @@ _version: 2
   pt: "Suavizar a visão com o mouse"
   pt-pt: "Suavizar a vista com o rato"
   nl: "Muisbewegingen vloeiend maken"
+  ru: "Плавный обзор мышью"
 "A head at rest":
   fr: "Tête au repos"
   ca: "El cap en repòs"
@@ -177,6 +193,7 @@ _version: 2
   pt: "Cabeça em repouso"
   pt-pt: "Cabeça em repouso"
   nl: "Hoofd in rust"
+  ru: "Камера в состоянии покоя"
 "Head sway at a standstill":
   fr: "Oscillation de la tête à l'arrêt"
   ca: "Balanceig del cap amb el vehicle aturat"
@@ -184,6 +201,7 @@ _version: 2
   pt: "Balanço da cabeça com o veículo parado"
   pt-pt: "Balanço da cabeça com o veículo parado"
   nl: "Hoofdbeweging bij stilstand"
+  ru: "Покачивание камеры при остановке"
 "Sway pace":
   fr: "Rythme de l'oscillation"
   ca: "Ritme del balanceig"
@@ -191,6 +209,7 @@ _version: 2
   pt: "Ritmo do balanço"
   pt-pt: "Ritmo do balanço"
   nl: "Bewegingsritme"
+  ru: "Скорость покачивания камеры"
 "Precision mouse zoom (FOV curve instead of the linear way)":
   fr: "Zoom précis avec la souris (courbe de FOV au lieu que ce soit de manière linéaire)"
   ca: "Zoom precís amb el ratolí (corba del camp de visió en lloc de resposta lineal)"
@@ -198,6 +217,7 @@ _version: 2
   pt: "Zoom preciso com o mouse (curva de FOV em vez do modo linear)"
   pt-pt: "Zoom preciso com o rato (curva de FOV em vez do modo linear)"
   nl: "Nauwkeurig zoomen met de muis (FOV-curve in plaats van lineair)"
+  ru: "Точное приближение мышью (нелинейный угол обзора)"
 "Precision mouse zoom":
   fr: "Zoom précis avec la souris"
   ca: "Zoom precís amb el ratolí"
@@ -205,6 +225,7 @@ _version: 2
   pt: "Zoom preciso com o mouse"
   pt-pt: "Zoom preciso com o rato"
   nl: "Nauwkeurig zoomen met de muis"
+  ru: "Точное приближение мышью"
 "Head tracking with opentrack (UDP port {})":
   fr: "Suivi de tête avec opentrack (port UDP {})"
   ca: "Seguiment del cap amb opentrack (port UDP {})"
@@ -212,6 +233,7 @@ _version: 2
   pt: "Rastreamento da cabeça com opentrack (porta UDP {})"
   pt-pt: "Rastreamento da cabeça com opentrack (porta UDP {})"
   nl: "Hoofdtracking met opentrack (UDP-poort {})"
+  ru: "Отслеживание движений головы через Opentrack (UDP-порт {})"
 "Chat size":
   fr: "Taille du chat"
   ca: "Mida del xat"
@@ -219,6 +241,7 @@ _version: 2
   pt: "Tamanho do chat"
   pt-pt: "Tamanho do chat"
   nl: "Chatgrootte"
+  ru: "Размер чата"
 "The chat's texts on top of the interface size (also Ctrl + the mouse wheel over the chat)":
   fr: "Taille des textes du chat par rapport à la taille de l'interface (également Ctrl + molette sur le chat)"
   ca: "Mida del text del xat respecte de la interfície (també amb Ctrl i la roda del ratolí al xat)"
@@ -226,6 +249,7 @@ _version: 2
   pt: "Tamanho do texto do chat em relação ao tamanho da interface (também Ctrl + roda do mouse sobre o chat)"
   pt-pt: "Tamanho do texto do chat em relação ao tamanho da interface (também Ctrl + roda do rato sobre o chat)"
   nl: "Tekstgrootte van de chat boven de interface (ook Ctrl + muiswiel boven de chat)"
+  ru: "Размер чата поверх интерфейса (также работает Ctrl + колёсико мыши над чатом)"
 "Steering view angle":
   ca: "Angle de vista en girar"
   de: "Blickwinkel beim Lenken"
@@ -347,8 +371,9 @@ _version: 2
   pl: "Kierunek force feedback"
   fr: "Sens du retour de force"
   zh-tw: "力回饋方向"
-
+  ru: "Направление обратной связи"
   nl: "Richting van forcefeedback"
+
 "Invert force feedback by default":
   ca: "Inverteix el retorn de força per defecte"
   de: "Force Feedback standardmäßig invertieren"
@@ -358,8 +383,9 @@ _version: 2
   pl: "Domyślnie odwracaj force feedback"
   fr: "Inverser le retour de force par défaut"
   zh-tw: "預設反轉力回饋"
-
+  ru: "Инвертировать обратную связь по умолчанию"
   nl: "Forcefeedback standaard omkeren"
+
 "Wheels with a saved direction use their own setting under Controls → Game controllers.":
   ca: "Els volants amb un sentit desat fan servir el seu propi ajust a Controls → Dispositius de joc."
   de: "Lenkräder mit gespeicherter Richtung verwenden ihre eigene Einstellung unter Steuerung → Gamecontroller."
@@ -369,7 +395,7 @@ _version: 2
   pl: "Kierownice z zapisanym kierunkiem używają własnego ustawienia w sekcji Sterowanie → Kontrolery gier."
   fr: "Les volants dont le sens est enregistré gardent leur propre réglage sous Commandes → Contrôleurs de jeu."
   zh-tw: "已儲存方向的方向盤在「控制」→「遊戲控制器」下使用自己的設定。"
-
+  ru: "Рули с сохранённым направлением используют собственные параметры во вкладке Управление → Игровые контроллеры."
   nl: "Stuurwielen met een opgeslagen richting gebruiken hun eigen instelling onder Bediening → Gamecontrollers."
 "INJURY RISK: TAKE YOUR HANDS OFF THE WHEEL. Keep hands and fingers clear before starting and throughout the test.":
   ca: "RISC DE LESIONS: TREU LES MANS DEL VOLANT. Mantén les mans i els dits allunyats abans de començar i durant tota la prova."
@@ -380,7 +406,7 @@ _version: 2
   pl: "RYZYKO URAZU: PUŚĆ KIEROWNICĘ. Trzymaj ręce i palce z dala od niej przed rozpoczęciem i przez cały czas trwania testu."
   fr: "RISQUE DE BLESSURE : LÂCHEZ LE VOLANT. Gardez les mains et les doigts à l'écart avant de commencer et pendant tout le test."
   zh-tw: "受傷風險：請將雙手從方向盤上移開。開始前及整個測試期間，請讓雙手和手指保持遠離。"
-
+  ru: "РИСК ТРАВМЫ: УБЕРИТЕ РУКИ ОТ РУЛЯ. Держите руки и пальцы подальше до начала и во время проведения теста."
   nl: "LETSELGEVAAR: HAAL UW HANDEN VAN HET STUUR. Houd handen en vingers weg vóór en tijdens de test."
 "The test applies two short forces in opposite directions. Finish and press Save to keep the detected direction for this wheel.":
   ca: "La prova aplica dues forces breus en sentits oposats. Acaba i prem Desa per conservar el sentit detectat per a aquest volant."
@@ -391,7 +417,7 @@ _version: 2
   pl: "Test wywołuje dwa krótkie impulsy siły w przeciwnych kierunkach. Zakończ i naciśnij Zapisz, aby zachować wykryty kierunek dla tej kierownicy."
   fr: "Le test applique deux brèves forces aux sens opposés. Terminez puis appuyez sur Enregistrer pour garder le sens détecté pour ce volant."
   zh-tw: "此測試在相反方向施加兩個短力。完成並按下儲存以保留偵測到的該輪子的方向。"
-
+  ru: "Во время теста будут приложены два коротких усилия в противоположных направлениях. Дождитесь окончания и нажмите «Сохранить», чтобы зафиксировать определённое направление для этого руля."
   nl: "De test oefent twee korte krachten in tegengestelde richtingen uit. Rond af en klik op Opslaan om de gevonden richting te bewaren."
 "Start test":
   ca: "Inicia la prova"
@@ -402,6 +428,7 @@ _version: 2
   pl: "Rozpocznij test"
   fr: "Lancer le test"
   zh-tw: "開始測試"
+  ru: "Начать тест"
 
   nl: "Test starten"
 "Test strength":
@@ -413,6 +440,7 @@ _version: 2
   pl: "Siła testu"
   fr: "Force du test"
   zh-tw: "測試強度"
+  ru: "Сила теста"
 
   nl: "Teststerkte"
 "If the wheel barely moves, increase Test strength and retry. Keep your hands clear.":
@@ -424,7 +452,7 @@ _version: 2
   pl: "Jeśli kierownica ledwo się porusza, zwiększ siłę testu i spróbuj ponownie. Trzymaj ręce z dala od kierownicy."
   fr: "Si le volant bouge, augmentez la force du test et réessayez. Gardez les mains à l'écart, risque de blessure."
   zh-tw: "如果方向盤幾乎不動，請提高測試強度後重試。請讓雙手保持遠離。"
-
+  ru: "Если руль едва двигается, увеличьте «Силу теста» и повторите попытку. Держите руки подальше."
   nl: "Beweegt het stuur nauwelijks? Verhoog de teststerkte en probeer opnieuw. Houd uw handen weg."
 "The wheel did not move enough. Retry or choose the direction manually.":
   ca: "El volant no s'ha mogut prou. Torna-ho a provar o tria el sentit manualment."
@@ -435,7 +463,7 @@ _version: 2
   pl: "Kierownica nie poruszyła się wystarczająco. Spróbuj ponownie lub wybierz kierunek ręcznie."
   fr: "Le volant n'a pas assez bougé. Réessayez ou choisissez le sens manuellement."
   zh-tw: "方向盤移動幅度不足。請重試或手動選擇方向。"
-
+  ru: "Руль сдвинулся недостаточно. Повторите попытку или выберите направление вручную."
   nl: "Het stuur bewoog onvoldoende. Probeer opnieuw of kies de richting handmatig."
 "Direction detected: normal":
   ca: "Sentit detectat: normal"
@@ -446,7 +474,7 @@ _version: 2
   pl: "Wykryty kierunek: normalny"
   fr: "Sens détecté : normal"
   zh-tw: "偵測到的方向：正常"
-
+  ru: "Определено направление: стандартное"
   nl: "Richting gedetecteerd: normaal"
 "Direction detected: inverted":
   ca: "Sentit detectat: invertit"
@@ -457,7 +485,7 @@ _version: 2
   pl: "Wykryty kierunek: odwrócony"
   fr: "Sens détecté : inversé"
   zh-tw: "偵測到的方向：反轉"
-
+  ru: "Определено направление: инвертированное"
   nl: "Richting gedetecteerd: omgekeerd"
 "Testing: keep your hands off the wheel…":
   ca: "Provant: mantén les mans fora del volant…"
@@ -14890,6 +14918,7 @@ _version: 2
   pt: "Linha e escala"
   pt-pt: "Linha e escala"
   nl: "Lijn en rit"
+  ru: "Маршрут и выход"
 "Lines":
   ca: "Línies"
   ru: "Маршруты"
@@ -14911,6 +14940,7 @@ _version: 2
   zh: "线路"
   hi: "लाइनें"
   zh-tw: "路線"
+  ru: "Маршруты"
 "Look for updates when the launcher starts":
   ca: "Cerca actualitzacions en iniciar el launcher"
   ru: "Проверять обновления при запуске лаунчера"
@@ -15780,6 +15810,7 @@ _version: 2
   pt: "Opções do veículo..."
   pt-pt: "Opções do veículo..."
   nl: "Voertuigopties..."
+  ru: "Параметры транспорта..."
 "World options...":
   ca: "Opcions del món..."
   zh-tw: "世界選項…"
@@ -15787,6 +15818,7 @@ _version: 2
   pt: "Opções do mundo..."
   pt-pt: "Opções do mundo..."
   nl: "Wereldopties..."
+  ru: "Параметры мира..."
 "Vehicle options":
   ca: "Opcions del vehicle"
   zh-tw: "車輛選項"
@@ -15794,6 +15826,7 @@ _version: 2
   pt: "Opções do veículo"
   pt-pt: "Opções do veículo"
   nl: "Voertuigopties"
+  ru: "Параметры транспорта"
 "World options":
   ca: "Opcions del món"
   zh-tw: "世界選項"
@@ -15801,6 +15834,7 @@ _version: 2
   pt: "Opções do mundo"
   pt-pt: "Opções do mundo"
   nl: "Wereldopties"
+  ru: "Параметры мира"
 "Save to a new slot":
   ca: "Desa en una ranura nova"
   zh-tw: "儲存至新欄位"
@@ -15808,6 +15842,7 @@ _version: 2
   pt: "Salvar em um novo espaço"
   pt-pt: "Guardar num novo espaço"
   nl: "Opslaan in een nieuw slot"
+  ru: "Сохранить в новый слот"
 "PageDown":
   ca: "Av Pàg"
   ru: "PageDown"
@@ -24103,6 +24138,7 @@ _version: 2
   pl: "Ustawienia pojazdu"
   fr: "Réglages du véhicule"
   zh-tw: "車輛設定"
+  ru: "Настройки транспорта"
 
   nl: "Voertuiginstellingen"
 "Roadbook and IBIS":
@@ -24860,6 +24896,7 @@ _version: 2
   pt: "Letreiro de destino"
   pt-pt: "Indicador de destino"
   nl: "Bestemmingsdisplay"
+  ru: "Табло направления"
 "Edit selected weather as custom":
   ca: "Edita el temps seleccionat com a personalitzat"
   fr: "Modifier la météo choisie en météo personnalisée"
